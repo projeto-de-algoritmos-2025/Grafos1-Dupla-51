@@ -1,11 +1,21 @@
-Questões:
+## Alunos
+Lucas Antunes de Avelar - 200067095
 
-https://leetcode.com/problems/shortest-cycle-in-a-graph/description/
+Yan Luca Viana de Araújo Fontenele - 211031889
+## Questões 
 
-https://leetcode.com/problems/longest-cycle-in-a-graph/description/
+## [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
+![Exemplo 1](assets/shortest-cycle.png)
 
-https://leetcode.com/problems/modify-graph-edge-weights/description/
 
-https://leetcode.com/problems/graph-connectivity-with-threshold/description/
+## [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
+![Exemplo](assets/longest-cycle.png)
 
-https://leetcode.com/problems/is-graph-bipartite/description/
+## [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+![Exemplo](assets/graph-bipartite.png)
+
+
+
+# Vídeo explicativo
+
+[![Vídeo explicativo](https://img.youtube.com/vi/JdX1XPz5eO8/0.jpg)](https://youtu.be/JdX1XPz5eO8)

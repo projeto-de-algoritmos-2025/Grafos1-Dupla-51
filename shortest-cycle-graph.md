@@ -12,14 +12,14 @@ A cycle is a path that starts and ends at the same node, and each edge in the pa
 
 
 Example 1:
- ![alt text](image.png)
+ ![alt text](assets/image.png)
 
 Input: n = 7, edges = [[0,1],[1,2],[2,0],[3,4],[4,5],[5,6],[6,3]]
 Output: 3
 Explanation: The cycle with the smallest length is : 0 -> 1 -> 2 -> 0 
 
 Example 2:
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 
 Input: n = 4, edges = [[0,1],[0,2]]
 Output: -1
